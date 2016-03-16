@@ -1,8 +1,13 @@
-{
+﻿{
   "en-US":[
-            "Select Your Device",
-            "Set up your Device",
             "Set up your PC",
-            "Develop"
+            "Set up your device",
+            "Write your first app",
+			"Develop"
+    ],
+ "zh-CN": [
+            "设置电脑",
+            "设置你的设备",
+            "开发"
     ]
 }
